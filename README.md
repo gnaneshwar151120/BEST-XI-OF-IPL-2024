@@ -1,9 +1,9 @@
 # BEST-XI-OF-IPL-2024 🏏
-![Power bi](Screenshorts and images/power bi.png)
-![Python](Screenshorts and images/python.png)
-![Selenium](Screenshorts and images/selenium.png)
-![Pandas](Screenshorts and images/pandas.png)
-![Jupyter Notebook](Screenshorts and images/notebook.png)
+![Power bi](Screenshorts%20and%20images/power bi.png)
+![Python](Screenshorts%20and%20images/python.png)
+![Selenium](Screenshorts%20and%20images/selenium.png)
+![Pandas](Screenshorts%20and%20images/pandas.png)
+![Jupyter Notebook](Screenshorts%20and%20images/notebook.png)
 
 
 
