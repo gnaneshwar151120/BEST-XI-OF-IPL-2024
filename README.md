@@ -16,6 +16,12 @@ This project utilizes **Power BI, Python, and Selenium** to analyze IPL 2024 pla
 
 ---
 
+## 📂 Data Source
+📌 The player performance data was scraped from ESPN Cricinfo:
+📎 IPL 2024 Match Results – ESPN Cricinfo
+
+(This dataset provides match-by-match performance data for IPL 2024, which was used to evaluate and select the best XI.)
+---
 ## 🏗️ Steps Involved  
 1️⃣ **Data Collection**: Web scraping IPL player stats using **Selenium**  
 2️⃣ **Data Cleaning & Preprocessing**: Structured processing with **Pandas**  
