@@ -24,7 +24,10 @@ This project aims to analyze and select the best playing XI for the Indian Premi
 # Screenshorts of Dashboards
 
 ![ds1](Screenshorts%20and%20images/Power%20HittersOpeners.png)
+
 ![ds2](Screenshorts%20and%20images/AnchorsMiddleOrder.png)
+
 ![ds3](Screenshorts%20and%20images/FinisherLower%20order%20Anchor.png)
+
 ![ds4](Screenshorts%20and%20images/New%20Final%2012.png)
 
